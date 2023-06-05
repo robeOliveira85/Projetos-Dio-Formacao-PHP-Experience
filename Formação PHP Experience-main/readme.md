@@ -39,7 +39,7 @@ Route::delete('students/{id}','ApiController@deleteStudent');
         "name": "Roberto Oliveira",
         "course": "DIO",
         "created_at": "2023-06-05 15:10:12",
-        "updated_at": "2023-06-05 14:10:12"
+        "updated_at": "2023-06-05 15:10:12"
     }
 ]
 ```
